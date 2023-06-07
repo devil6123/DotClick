@@ -1,0 +1,33 @@
+.header{
+  position: fixed;
+  left: 0; top: 0; bottom: 0;
+  width: 12em;
+  box-shadow: 1px 1px 1px 1px #7e7c7c;
+  text-align: center;
+
+}
+
+.title{
+  text-transform: lowercase;
+  font: 300 2em sans;
+    margin-top: 18px;
+
+  
+}
+.list{
+    text-decoration: underline;
+    padding: 5px;
+}
+.bottom {
+    position: absolute;
+    bottom: 8px;
+    left: 50px;
+    font-size: 18px;
+    text-align: center;
+  }
+  .btn{
+    background-color: rgb(4, 75, 4);
+    font-size: 20px;
+    color: antiquewhite;
+    border-radius: 6px;
+  }
