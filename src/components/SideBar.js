@@ -1,5 +1,7 @@
 import React from "react";
 import "./sidebar.css";
+
+
 const SideBar = () => {
   return (
     <div>
@@ -23,6 +25,7 @@ const SideBar = () => {
 
         <p>12345677</p>
       </div>
+   
     </div>
   );
 };
